@@ -2,7 +2,9 @@
 
 Sample project inspired by the Storage Factory lesson from Cyfrin Updraft.
 
-## Get keys
+## Instructions
+
+### Get Keys
 
 - To use Wallet Connect get project a id from [Cloud Wallet Connect](https://cloud.walletconnect.com/sign-in)
 - To interact with Ethereum get a Sepolia API key from [Alchemy](https://www.alchemy.com/)
