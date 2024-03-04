@@ -13,7 +13,7 @@ Sample project inspired by the Storage Factory lesson from Cyfrin Updraft.
 - [Contracts](https://github.com/pacelliv/storage-factory-demo/blob/main/contracts/README.md)
 - [Frontend](https://github.com/pacelliv/storage-factory-demo/blob/main/frontend-nextjs/README.md)
 
-### Todos
+## Todos
 
 Can you help with these?
 
