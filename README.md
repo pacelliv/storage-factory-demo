@@ -1,6 +1,6 @@
 # Storeth
 
-Sample project inspired by the Storage Factory lesson.
+Sample project inspired by the Storage Factory lesson from Cyfrin Updraft.
 
 ## Get keys
 
@@ -15,4 +15,4 @@ Sample project inspired by the Storage Factory lesson.
 
 ### Todos
 
-- Implement a script to verify each `SimpleStorage` ceated via the frontend on Etherscan
+- Implement a script to verify each `SimpleStorage` ceated via the frontend on Etherscan.
