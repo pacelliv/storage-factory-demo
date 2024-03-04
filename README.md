@@ -16,3 +16,4 @@ Sample project inspired by the Storage Factory lesson from Cyfrin Updraft.
 ### Todos
 
 - Implement a script to verify each `SimpleStorage` ceated via the frontend on Etherscan.
+- Improve light mode theme.
