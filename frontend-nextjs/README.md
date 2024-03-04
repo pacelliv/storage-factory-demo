@@ -1,8 +1,6 @@
-## Storeth Frontend
+# Storeth Frontend
 
-### Contracts: https://github.com/pacelliv/storeth-contracts
-
-### Quickstart
+## Quickstart
 
 ### Install the dependencies
 

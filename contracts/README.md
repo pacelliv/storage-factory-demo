@@ -1,8 +1,6 @@
 # Storeth Contracts
 
-### Frontend: https://github.com/pacelliv/storeth-frontend
-
-### Quickstart
+## Quickstart
 
 Create a keystore
 
@@ -36,7 +34,7 @@ make test
 
 ### Format
 
-```
+```bash
 make format
 ```
 
