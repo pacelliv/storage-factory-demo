@@ -12,3 +12,7 @@ Sample project inspired by the Storage Factory lesson.
 
 - [Contracts](https://github.com/pacelliv/storage-factory-demo/blob/main/contracts/README.md)
 - [Frontend](https://github.com/pacelliv/storage-factory-demo/blob/main/frontend-nextjs/README.md)
+
+### Todos
+
+- Implement a script to verify each `SimpleStorage` ceated via the frontend on Etherscan
