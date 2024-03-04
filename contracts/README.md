@@ -70,4 +70,4 @@ See `script/StorageFactory.s.sol:UpdateAccountBalance`, update functions inputs 
 make update_bal ARGS="-i --network sepolia"
 ```
 
-### For more commands check `Makefile`
+### For more commands check Makefile file
