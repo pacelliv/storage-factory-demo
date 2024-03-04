@@ -10,5 +10,5 @@ Sample project inspired by the Storage Factory lesson.
 
 ### More instructions
 
-- [Contracts](https://github.com/pacelliv/storeth/tree/main/contracts)
-- [Frontend](https://github.com/pacelliv/storeth/tree/main/frontend)
+- [Contracts](https://github.com/pacelliv/storage-factory-demo/blob/main/contracts/README.md)
+- [Frontend](https://github.com/pacelliv/storage-factory-demo/blob/main/frontend-nextjs/README.md)
