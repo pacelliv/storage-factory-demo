@@ -2,6 +2,8 @@
 
 Sample project inspired by the Storage Factory lesson from Cyfrin Updraft.
 
+Note: The contracts are not the same from the lesson, I added a few more functions and events to make it more interesting. But the taught concepts are the same.
+
 ## Instructions
 
 ### Get Keys
